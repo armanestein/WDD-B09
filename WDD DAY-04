@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>WDD Day 4</title>	
+	</head>
+
+	<body>
+		<!---List Item Class--->
+	<h2><u>Orderd List</u></h2>
+
+		<ol type="i" start="201">
+			<li>Facebook
+				<ol type="a">
+					<li>Home</li>
+					<li>Profile</li>
+				</ol>
+			</li>
+			<li>Twitter</li>
+			<li>YouTube</li>
+		</ol>
+		<!---Unorderd List start--->
+	<h3><mark>Unorderd List</mark></h3>
+	
+	<ul type="disc">
+		
+		<li>Facebook	
+		<li>Twitter</li>
+		<li>YouTube</li>
+	</ul>
+<br>
+	<ul type="circle">
+		
+		<li>Facebook	
+		<li>Twitter</li>
+		<li>YouTube</li>
+	</ul>
+<br>
+	<ul type="square">
+		
+		<li>Facebook	
+		<li>Twitter</li>
+		<li>YouTube</li>
+	</ul>
+
+
+		<!---Unorderd List End--->
+
+ <br>
+	
+<br>
+<br>
+		
+		<!---List Item Class--->
+	</body>
+</html>
